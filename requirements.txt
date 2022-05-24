@@ -2,4 +2,4 @@ pandas
 google-cloud-core
 google-cloud-storage
 google-cloud-automl
-tensorflow==1.13.1
+tensorflow==2.6.4
